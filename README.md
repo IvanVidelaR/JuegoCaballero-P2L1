@@ -1,4 +1,4 @@
-# Título: Juego python - El caballero la venganza final - SP LAB_I
+# Juego python - El caballero la venganza final - SP LAB_I
 
 Este es el juego que desarrolle para el parcial numero 2 de la materia Laboratorio 1 de la tecnicatura universitaria en programación (UTNFRA) - "El caballero y la venganza final"
 
@@ -43,4 +43,4 @@ Cada tipo de enemigo posee habilidades únicas: los duendes atacan cuerpo a cuer
 ![MenuGameOver](img-readme/FotoFormularioGameOver.png)
 10. *Menu Game Over*: Después de ganar, introduce tu nombre para registrar tu puntuación en la base de datos. Si pierdes, puedes intentarlo de nuevo o regresar al menú principal.
 
-> Note: Al querer instalar el ejecutable puede generar inconvenientes, ante cualquier error revise su antivirus.
+> Nota: Al querer instalar el ejecutable puede generar inconvenientes, ante cualquier error revise su antivirus.
